@@ -1,0 +1,12 @@
+const accountId = 14411
+let accountEmail = "123@gmail.com"
+var accountPassword = "123"
+accountCity = "jaipur"
+// accountId = 2 const change not allowed allowed 
+// accountEmail = "456@gmail.com"
+console.table([accountId, accountEmail, accountCity, accountPassword]);
+// console.log(accountEmail);
+accountPassword = "45677"
+console.log(accountPassword);
+// console.log(accountCity);
+
