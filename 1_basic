@@ -2,11 +2,15 @@ const accountId = 14411
 let accountEmail = "123@gmail.com"
 var accountPassword = "123"
 accountCity = "jaipur"
+AccountState = "Start"
 // accountId = 2 const change not allowed allowed 
 // accountEmail = "456@gmail.com"
-console.table([accountId, accountEmail, accountCity, accountPassword]);
+console.table([accountId, accountEmail, accountCity, accountPassword, AccountState]);
 // console.log(accountEmail);
 accountPassword = "45677"
+/*
+not to use var--because  of issue in block scope and functional scope
+*/
 console.log(accountPassword);
 // console.log(accountCity);
 
