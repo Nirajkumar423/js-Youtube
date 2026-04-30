@@ -25,3 +25,10 @@ const heros=["shaktiman","naagraj","doga"]
 const myFunction=function(){
     console.log("Hello world")
 }
+
+
+
+//stack -use in premative data
+// or heap  - use in non premative data type
+
+
