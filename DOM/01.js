@@ -1,2 +1,2 @@
 let abcd=document.getElementById("abcd");
-console.dir(abcd);
+ console.dir(abcd);
